@@ -1,4 +1,4 @@
-# print("Zad. 1.")
+####### print("Zad. 1.")
 # print("")
 #
 # def potega(a, b):
